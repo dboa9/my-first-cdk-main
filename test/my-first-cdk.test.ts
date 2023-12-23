@@ -4,7 +4,7 @@ import * as MyFirstCdk from '../lib/my-first-cdk-stack';
 
 // example test. To run these tests, uncomment this file along with the
 // example resource in lib/my-first-cdk-stack.ts
-test('Cdk First FarukFda 291123 Created', () => {
+test('Cdk First Created', () => {
       const app = new cdk.App();
 //     // WHEN
   const stack = new MyFirstCdk.MyFirstCdkStack(app, 'MyTestStack');
